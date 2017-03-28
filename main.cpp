@@ -50,3 +50,5 @@ int main()
     cout<<KMP(str, ms,next);
     return 0;
 }
+
+12315454
